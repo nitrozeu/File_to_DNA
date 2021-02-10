@@ -17,7 +17,7 @@ import java.util.Set;
 public class Compression {
 /**
  *
- * @author devendra
+ * 
  */
     
     static String FileName = "text.txt";
